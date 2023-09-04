@@ -6,5 +6,7 @@
 # social media data set
 preparing the data set for visualization using IBM cognos analytics
 ![data set](https://github.com/Vyshnavipadebettu/dissecting-the-digital-landscape-a-comprehensive-analysis-of-social-media/assets/141228308/7571075d-0d71-4867-8a7f-147706fc8139)
-# story
+# storyboard 
+The number of scenes of story.
+A visual representation of the data analysis
 https://github.com/Vyshnavipadebettu/dissecting-the-digital-landscape-a-comprehensive-analysis-of-social-media/assets/141228308/0729109e-6b9b-4c8d-ab03-165a6997b312

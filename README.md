@@ -9,7 +9,7 @@ preparing the data set for visualization using IBM cognos analytics
 # storyboard 
 The number of scenes of story.
 A visual representation of the data analysis
-![story](https://github.com/Vyshnavipadebettu/dissecting-the-digital-landscape-a-comprehensive-analysis-of-social-media/assets/141228308/d9199990-e1f5-4315-b192-e7f0da145679) 
+https://github.com/Vyshnavipadebettu/dissecting-the-digital-landscape-a-comprehensive-analysis-of-social-media/assets/141228308/d9199990-e1f5-4315-b192-e7f0da145679
 # Report
 ![Report](https://github.com/Vyshnavipadebettu/dissecting-the-digital-landscape-a-comprehensive-analysis-of-social-media/assets/141228308/28251830-5229-471d-955c-96b9b2039f20)
 
